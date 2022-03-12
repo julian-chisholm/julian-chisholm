@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @julian-chisholm
-- 👀 I’m interested in Python, web application development with Django, and playing chess.
-- 🌱 I’m currently learning Python and the Django framework.
-- 💞️ At this point I am not ready for collaboration on a project, but who knows later (or sooner) !
 - 📫 How to reach me : julian.chisholm@gmail.com
 
 <!---
